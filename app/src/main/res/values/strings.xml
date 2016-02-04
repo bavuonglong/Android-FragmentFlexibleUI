@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FragmentSample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="title">
+        <item>Creating an Android Project</item>
+        <item>Running Your App</item>
+        <item>Building a Simple User Interface</item>
+        <item>Starting Another Activity</item>
+    </string-array>
+    <string-array name="description">
+        <item>An Android project contains all the files that comprise the source code for your Android app. This lesson shows how to create a new project either using Android Studio or using the SDK tools from a command line.</item>
+        <item>If you followed the previous lesson to create an Android project, it includes a default set of "Hello World" source files that allow you to immediately run the app.</item>
+        <item>In this lesson, you create a layout in XML that includes a text field and a button. In the next lesson, your app responds when the button is pressed by sending the content of the text field to another activity.</item>
+        <item>After completing the previous lesson, you have an app that shows an activity (a single screen) with a text field and a button. In this lesson, you’ll add some code to MyActivity that starts a new activity when the user clicks the Send button.</item>
+
+    </string-array>
+    <string name="title_activity_another">AnotherActivity</string>
+</resources>
